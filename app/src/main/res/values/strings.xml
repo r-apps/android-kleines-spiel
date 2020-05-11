@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kleines Spiel</string>
+    <string name="KlickButtonText">Klick mich!</string>
+    <string name="creator">© 2016 - Rubeen</string>
+</resources>
